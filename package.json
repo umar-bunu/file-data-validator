@@ -1,6 +1,6 @@
 {
   "name": "file-data-validator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "File Data validator for csv and excel file using zod",
   "main": "dist/index.js",
   "repository": "https://github.com/umar-bunu/file-data-validator",
