@@ -1,0 +1,30 @@
+{
+  "name": "file-data-validator",
+  "version": "1.0.2",
+  "description": "File Data validator for csv and excel file using zod",
+  "main": "dist/index.js",
+  "repository": "https://github.com/umar-bunu/file-data-validator",
+  "author": "Mr umar.bunu73@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@tanstack/react-query": "^4.36.1",
+    "@types/node": "^20.8.6",
+    "react": "^18.2.0",
+    "typescript": "^5.2.2",
+    "xlsx": "^0.18.5",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.28",
+    "ts-node": "^10.9.1"
+  },
+  "keywords": [
+    "react",
+    "validator",
+    "validation",
+    "data",
+    "csv",
+    "excel validator"
+  ]
+}
